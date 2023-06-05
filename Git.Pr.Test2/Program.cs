@@ -10,6 +10,7 @@ namespace Git.Pr.Test2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
